@@ -24,6 +24,8 @@ Techtourism::Application.routes.draw do
   #       get 'sold'
   #     end
   #   end
+  
+  resources :passport
 
   # Sample resource route with sub-resources:
   #   resources :products do
